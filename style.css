@@ -1,0 +1,158 @@
+html,body{
+    overflow-x: hidden;
+}
+#container{
+    height : 816px;
+    margin-left : 30px;
+    width : 1536px;
+    margin : 0px;
+
+}
+#container2{
+    background-image: url("https://wallpapers.com/images/featured/travel-hd-axhrsecphqby11wk.jpg");
+    background-repeat: no-repeat;
+    background-position: 780px;
+    background-size:contain;
+    background-size: 700px;
+}
+
+#div{
+    width : 85%;
+    height : 62px;
+     
+     margin-top : 15px;
+    border : 2px solid rgb(32, 140, 182);
+    border-radius: 35px 35px 35px 35px;
+    
+    padding-left :120px;
+    padding-top : 12px;
+   display: flex;
+}
+img{
+    margin-right: 570px;
+   margin-left: 10px;
+
+}
+#div3{
+    display: flex;
+}
+#one{
+    margin-right: 20px;
+    font-size: 20px;
+    padding-top: 6px;
+}
+button{
+    margin-right: 20px;
+    height:37px;
+    width:125px;
+    border : 1px solid black;
+    border-radius : 20px;
+    background-color: rgb(245, 86, 69);
+    font-size: 14px;
+
+}
+#div4{
+    padding-left :115px;
+    text-transform: uppercase;
+    color:indianred;
+    font-weight: bold;
+    
+
+}
+#div5{
+    padding-left :115px;
+    font-size :3.75rem;
+    font-family:normal;
+    font-weight:600;
+    line-height:1;
+    
+}
+
+#div2{
+    width:41px;
+    height:50px;
+    display:flex;
+    padding-top:6px;
+   margin-right: 400px;
+   
+    
+}
+a{
+    margin-right : 20px; 
+    text-decoration:none;
+    font-size: 18px;
+    color:black;
+
+}
+#div6{
+    width:608px;
+    height:56px;
+    display:flex;
+    margin-top:35px;
+}
+#div7{
+    width:608px;
+    height:56px;
+    display:flex;
+    
+    margin-top:58px;
+    
+}
+#button1{
+margin-right: 20px;
+    height:52px;
+    width:191px;
+    border : 2px solid black;
+    border-radius : 30px;
+    color:white;
+    font-weight:700;
+    
+}
+#button2{
+    margin-right: 20px;
+        height:50px;
+        width:191px;
+        border : 2px solid black;
+        border-radius : 30px;
+        background-color: white;
+        font-weight: bold;
+        
+        
+    }
+    #button2:hover{
+        
+        background-color: black;
+        color:white;
+    }
+    #container3{
+        height:700px;
+        width:1536px;
+        padding:96px;
+        padding-right: 0px;
+        margin: 0px;
+        background-image: url("https://cdn.wegic.ai/assets/onepage/ai/image/7008b894-009a-46d2-880c-1db7478754ef.jpeg?format=webp");
+    background-repeat: no-repeat;
+    background-position: 870px 110px;
+    background-size:contain;
+    background-size: 400px 600px;
+    }
+#div8{
+    width:648px;
+    height:116px;
+    display: flex;
+    justify-content: space-between;
+    margin-top:75px;
+
+}   
+
+
+#flex{
+    display: flex;
+    width:810px;
+    height:61px;
+    justify-content: space-between;
+    
+}
+    
+
+
